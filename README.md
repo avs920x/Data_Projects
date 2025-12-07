@@ -1,5 +1,5 @@
-# TripleTen_projects
-Projects I worked on while attending the Business Intelligence Analyst TripleTen Bootcamp.
+# Data_Projects
+Projects I worked on while learning business intelligences analysis.
 
 
 | Project number | Title | Description |
@@ -8,3 +8,5 @@ Projects I worked on while attending the Business Intelligence Analyst TripleTen
 | 2 | [Superstore Returns Analysis](https://public.tableau.com/app/profile/audrey4991/viz/SuperstoreStorytelling_TripleTen/Story_ReturnsOverview) | Created an interactive Tableau storyboard and dashboard to uncover the root causes of Superstore product returns, giving management clear visibility into return patterns by category, region, and shipping mode to reduce losses and improve customer satisfaction |
 | 3 | Business Analytics Project: Conversion Funnel & Retention Rates | Analyzed e-commerce user behavior through conversion funnel and cohort retention analysis, revealing a 10.3% overall purchase conversion rate and weak post-purchase retention, highlighting major opportunities to improve the checkout experience and customer loyalty |
 | 4 | [Zomato Customer Analysis](https://public.tableau.com/app/profile/audrey4991/viz/ZomatoCustomerAnalysisDashboard_17612394432180/Zomato_Customer_StoryBoard) | The Zomato Customer Analysis project examined user demographics and socioeconomic characteristics to identify key customer segments, revealing that Zomato’s user base is predominantly young, educated, and student-oriented, with insights to guide targeted marketing and engagement strategies |
+| 4 | [Data Science Student Marks Analysis](https://public.tableau.com/app/profile/audrey4991/viz/DataScienceStudentMarks/StudentMarksStoryBoard) | A dashboard showing how student skill performance (in SQL, Excel, Python, Power BI) varies across locations and age — highlighting overall trends, correlations between skills, and relative strengths or weaknesses per student |
+| 4 | [Orders Data Analysis](https://public.tableau.com/app/profile/audrey4991/viz/OrdersData_TripleTen/OrdersStoryBoard) | A dashboard visualizing order data across date and month to show how order count, sales, and profit vary across different regions and customer segments, highlighting trends and performance differences for deeper analysis |
